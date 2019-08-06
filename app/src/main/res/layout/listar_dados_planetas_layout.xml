@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="105dp"
-        android:text="Mercúrio"
+        android:text="Blender"
         android:textColor="#000"
         android:textSize="30dp" />
 
@@ -21,6 +21,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="27dp"
         android:src="@drawable/mercurio" />
- 
+
 
 </RelativeLayout>

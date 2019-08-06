@@ -17,7 +17,7 @@
             android:layout_marginEnd="44dp"
             android:layout_marginRight="44dp"
             android:layout_toStartOf="@+id/imgPlanetas"
-            android:text="Mercúrio"
+            android:text="Blender"
             android:textColor="#000"
             android:textSize="25sp"
             android:layout_toLeftOf="@+id/imgPlanetas" />
