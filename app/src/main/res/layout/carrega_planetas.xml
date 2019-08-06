@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:padding="10dp">
 
-        <TextView
+         <TextView
             android:id="@+id/planetas"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -32,6 +32,8 @@
             android:src="@drawable/mercurio"
             android:layout_alignParentRight="true"
             android:layout_marginRight="27dp" />
+
+
 
     </RelativeLayout>
 
